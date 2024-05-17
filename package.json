@@ -1,5 +1,6 @@
 {
   "name": "yesql",
+  "homepage": "https://yesql-beta.vercel.app/",
   "version": "1.0.0",
   "description": "",
   "main": "./build/bundle.js",
