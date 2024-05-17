@@ -1,6 +1,5 @@
 {
   "name": "yesql",
-  "homepage": "https://oslabs-beta.github.io/YESQL/",
   "version": "1.0.0",
   "description": "",
   "main": "./build/bundle.js",
